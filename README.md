@@ -29,10 +29,26 @@ Support vectors are data points that are closer to the hyperplane and influence 
 
 
 ![Taking a random dataset](/Pokidex-images/Example1.png)
-Taking a random dataset
+	Taking a random dataset
 
 ![SVM class implementation](/Pokidex-images/SVMclass.png)
-SVM class implementation
+	SVM class implementation
 
 ![Results after applying SVM](/Pokidex-images/Example-1-SVM.png)
-Results after applying SVM
+	Results after applying SVM
+
+![Visualizing loss](/Pokidex-images/Loss.png)
+	Visualizing Loss
+
+![One vs all function for 3 classes](/Pokidex-images/OnevAll.png)
+	One vs all function for 3 classes
+
+![Visualizing Pikachu](/Pokidex-images/Pikachu.png)
+
+
+![Visualizing Charmander](/Pokidex-images/Charmander.png)
+
+	Visualizing images from data dictionary with results on the top.
+
+
+
