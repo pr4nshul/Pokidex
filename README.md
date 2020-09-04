@@ -29,7 +29,10 @@ Support vectors are data points that are closer to the hyperplane and influence 
 
 
 ![Taking a random dataset](/Pokidex-images/Example1.png)
+Taking a random dataset
 
-![SVM class implementation](/Pokidex-images/SVMclass.jpg)
+![SVM class implementation](/Pokidex-images/SVMclass.png)
+SVM class implementation
 
 ![Results after applying SVM](/Pokidex-images/Example-1-SVM.png)
+Results after applying SVM
