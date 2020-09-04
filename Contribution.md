@@ -1,7 +1,7 @@
 # How to Contribute 
 I would love to accept your contributions! Follow these steps:
 
-## Overview of the project: [!README.md](https://github.com/pr4nshul/Pokidex/README.md)
+## Overview of the project: [!README.md](https://github.com/pr4nshul/Pokidex/blob/master/README.md)
 
     *Fork the GitHub Repo
     *$ git clone https://github.com/pr4nshul/Pokidex

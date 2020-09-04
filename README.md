@@ -26,37 +26,37 @@ Hyperplanes are decision boundaries that help classify the data points. Data poi
 Support vectors are data points that are closer to the hyperplane and influence the position and orientation of the hyperplane. Using these support vectors, we maximize the margin of the classifier. Deleting the support vectors will change the position of the hyperplane. These are the points that help us build our SVM.
 
 ## Dependencies
--Python
--MatPlotLib
--Numpy
--Pandas
--Sklearn
--OpenCV
+- Python
+- MatPlotLib
+- Numpy
+- Pandas
+- Sklearn
+- OpenCV
 ## Overview of project
 
 
 ![Taking a random dataset](/Pokidex-images/Example1.png)
-	*Taking a random dataset
+	* Taking a random dataset
 
 ![SVM class implementation](/Pokidex-images/SVMclass.png)
-	*SVM class implementation
+	* SVM class implementation
 
 ![Results after applying SVM](/Pokidex-images/Example-1-SVM.png)
-	*Results after applying SVM
+	* Results after applying SVM
 
 ![Visualizing loss](/Pokidex-images/Loss.png)
-	*Visualizing Loss
+	* Visualizing Loss
 
 ![One vs all function for 3 classes](/Pokidex-images/OnevAll.png)
-	*One vs all function for 3 classes
+	* One vs all function for 3 classes
 
 ![Visualizing Pikachu](/Pokidex-images/Pikachu.png)
 
 
 ![Visualizing Charmander](/Pokidex-images/Charmander.png)
 
-	*Visualizing images from data dictionary with results on the top.
+	* Visualizing images from data dictionary with results on the top.
 
 ## Contribution 
-* Refer [Contribution.md](https://github.com/pr4nshul/Pokidex/Contribution.md)
+* Refer [Contribution.md](https://github.com/pr4nshul/Pokidex/blob/master/Contribution.md)
 
