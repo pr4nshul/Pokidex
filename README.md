@@ -19,10 +19,17 @@ Hyperplanes and Support Vectors
 
 
 Hyperplanes are decision boundaries that help classify the data points. Data points falling on either side of the hyperplane can be attributed to different classes. Also, the dimension of the hyperplane depends upon the number of features. If the number of input features is 2, then the hyperplane is just a line. If the number of input features is 3, then the hyperplane becomes a two-dimensional plane. It becomes difficult to imagine when the number of features exceeds 3.
+
 ![Support Vectors](/Pokidex-images/SVM2.jpg)
 
 
 Support vectors are data points that are closer to the hyperplane and influence the position and orientation of the hyperplane. Using these support vectors, we maximize the margin of the classifier. Deleting the support vectors will change the position of the hyperplane. These are the points that help us build our SVM.
 
-##Overview of project
+## Overview of project
 
+
+![Taking a random dataset](/Pokidex-images/Example1.png)
+
+![SVM class implementation](/Pokidex-images/SVMclass.jpg)
+
+![Results after applying SVM](/Pokidex-images/Example-1-SVM.png)
