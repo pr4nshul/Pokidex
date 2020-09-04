@@ -19,15 +19,19 @@ I would love to accept your contributions! Follow these steps:
 ## Steps
 
 - Go to this code to see how the images are labeled in train.csv
+
 ![labels](/Pokidex-images/Contribution/train.png)
 
 - Train.csv
+
 ![Train](/Pokidex-images/Contribution/trainview.png)
 
 - Change the number of classes to the number of available Pokemon dataset (atleast 100 images)
+
 ![Classes](/Pokidex-images/Contribution/classes.png)
 
 - Add the labels of all the pokemon added
+
 ![Label](/Pokidex-images/Contribution/label.png)
 
 - Run all the required cells
