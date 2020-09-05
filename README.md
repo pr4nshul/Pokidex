@@ -26,12 +26,12 @@ Hyperplanes are decision boundaries that help classify the data points. Data poi
 Support vectors are data points that are closer to the hyperplane and influence the position and orientation of the hyperplane. Using these support vectors, we maximize the margin of the classifier. Deleting the support vectors will change the position of the hyperplane. These are the points that help us build our SVM.
 
 ## Dependencies
-- Python
-- MatPlotLib
-- Numpy
-- Pandas
-- Sklearn
-- OpenCV
+- [Python](https://www.python.org/doc/)
+- [MatPlotLib](https://matplotlib.org/3.3.1/contents.html)
+- [Numpy](https://numpy.org/doc/)
+- [Pandas](https://pandas.pydata.org/docs/)
+- [Sklearn](https://devdocs.io/scikit_learn/)
+- [OpenCV](https://docs.opencv.org/2.4/doc/tutorials/tutorials.html)
 ## Overview of project
 
 
@@ -58,5 +58,5 @@ Support vectors are data points that are closer to the hyperplane and influence 
 - Visualizing images from data dictionary with results on the top.
 
 ## Want to Contribute? 
-* Refer ![Contributing.md](https://github.com/pr4nshul/Pokidex/blob/master/Contributing.md)
+* Refer [Contributing.md](https://github.com/pr4nshul/Pokidex/blob/master/Contributing.md)
 
