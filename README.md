@@ -57,6 +57,6 @@ Support vectors are data points that are closer to the hyperplane and influence 
 
 - Visualizing images from data dictionary with results on the top.
 
-## Contribution 
-* Refer ![Contribution.md](https://github.com/pr4nshul/Pokidex/blob/master/Contribution.md)
+## Want to Contribute? 
+* Refer ![Contributing.md](https://github.com/pr4nshul/Pokidex/blob/master/Contributing.md)
 
